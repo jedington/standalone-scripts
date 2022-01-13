@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import random, string
 
 def password(length,num=False,strength=True):
